@@ -1,37 +1,19 @@
 <!-- Profile README inspired by ls-dev.tech -->
 
-<h1 align="center">Hi 👋, I'm Marlow</h1>
-<h3 align="center">Full Stack Developer | Maker | Technology Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Luca</h1>
+<h3 align="center">Software Developer Tranee| Maker | Technology Enthusiast</h3>
 
 <p align="center">
   <a href="https://ls-dev.tech" target="_blank">
     <img src="https://img.shields.io/badge/Website-ls--dev.tech-blue?style=for-the-badge&logo=google-chrome" alt="Website Badge"/>
   </a>
-  <a href="mailto:hello@ls-dev.tech">
+  <a href="mailto:luca.stalder@ls-dev.tech">
     <img src="https://img.shields.io/badge/Email-hello@ls--dev.tech-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/marlow3130/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-marlow3130-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/luca-stalder-189a91287/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Luca Stalder-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
 </p>
-
----
-
-### 👨‍💻 About Me
-
-- 🚀 Building things for the web, with a focus on **modern, fast & user-friendly experiences**
-- 🛠️ Passionate about **JavaScript, TypeScript, React, Node.js, and cloud technologies**
-- 🌱 Currently learning advanced **DevOps, AI, and edge computing**
-- 📝 I write about code, web, and tech on [ls-dev.tech/blog](https://ls-dev.tech/blog)
-- 💬 Ask me about **web apps, APIs, or how to turn ideas into products!**
-
----
-
-### 🚀 Projects & Highlights
-
-- **[My Portfolio Website](https://ls-dev.tech):** A showcase of my projects, blog posts & tech stack
-- **Open Source:** Contributor to several web and cloud projects
-- **Side Projects:** Building tools, automations & experimenting with new frameworks
 
 ---
 
@@ -61,20 +43,13 @@
 
 ---
 
-### 🏆 Achievements
-
-- 📚 Lifelong learner & tech blogger
-- 💡 Hackathon winner & open source advocate
-- 🥇 Recognized by the dev community for innovative project launches
-
----
 
 ### 📫 Let’s Connect!
 
 <p align="center">
   <a href="https://ls-dev.tech">🌐 Visit my website</a> •
-  <a href="mailto:hello@ls-dev.tech">📧 Email me</a> •
-  <a href="https://www.linkedin.com/in/marlow3130/">💼 LinkedIn</a>
+  <a href="mailto:luca.stalder@ls-dev.tech">📧 Email me</a> •
+  <a href="https://www.linkedin.com/in/luca-stalder-189a91287/">💼 LinkedIn</a>
 </p>
 
 ---
