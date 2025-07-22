@@ -1,14 +1,14 @@
 <!-- Profile README inspired by ls-dev.tech -->
 
 <h1 align="center">Hi 👋, I'm Luca</h1>
-<h3 align="center">Software Developer Tranee| Maker | Technology Enthusiast</h3>
+<h3 align="center">Software Developer Tranee | Maker | Technology Enthusiast</h3>
 
 <p align="center">
   <a href="https://ls-dev.tech" target="_blank">
     <img src="https://img.shields.io/badge/Website-ls--dev.tech-blue?style=for-the-badge&logo=google-chrome" alt="Website Badge"/>
   </a>
   <a href="mailto:luca.stalder@ls-dev.tech">
-    <img src="https://img.shields.io/badge/Email-hello@ls--dev.tech-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-luca.stalder@ls--dev.tech-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/luca-stalder-189a91287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Luca Stalder-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
@@ -43,17 +43,3 @@
 
 ---
 
-
-### 📫 Let’s Connect!
-
-<p align="center">
-  <a href="https://ls-dev.tech">🌐 Visit my website</a> •
-  <a href="mailto:luca.stalder@ls-dev.tech">📧 Email me</a> •
-  <a href="https://www.linkedin.com/in/luca-stalder-189a91287/">💼 LinkedIn</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=marlow3130" alt="visitor badge"/>
-</p>
