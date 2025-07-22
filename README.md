@@ -27,19 +27,19 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node-dot-js" />
-  <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb" />
-</p>
+- 🚀 Building things for the web, with a focus on **modern, fast & user-friendly experiences**
+- 🛠️ Passionate about **JavaScript, TypeScript, React, Node.js, and cloud technologies**
+- 🌱 Currently learning advanced **DevOps, AI, and edge computing**
+- 💬 Ask me about **web apps, APIs, or how to turn ideas into products!**
 
 ---
+
+### 🚀 Projects & Highlights
+
+- **[My Portfolio Website](https://ls-dev.tech):** A showcase of my projects & tech stack
+- **Open Source:** Contributor to several web and cloud projects
+- **Side Projects:** Building tools, automations & experimenting with new frameworks
+
 
