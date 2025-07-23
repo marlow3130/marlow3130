@@ -19,11 +19,11 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<a>
   <img src="https://github-readme-stats.vercel.app/api?username=marlow3130&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=marlow3130&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlow3130&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</a>
 
 ---
 
