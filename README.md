@@ -33,6 +33,7 @@
 - 🛠️ Passionate about **JavaScript, TypeScript, React, Node.js, and cloud technologies**
 - 🌱 Currently learning advanced **DevOps, AI, and edge computing**
 - 💬 Ask me about **web apps, APIs, or how to turn ideas into products!**
+- Currently working as a Intern at KW-Software**
 
 ---
 
