@@ -42,5 +42,7 @@
 - **[My Portfolio Website](https://ls-dev.tech):** A showcase of my projects & tech stack
 - **Open Source:** Contributor to several web and cloud projects
 - **Side Projects:** Building tools, automations & experimenting with new frameworks
+- **Passion Project:** Building Apps to help improve my hobbies and make Life easy
+  
 
 
