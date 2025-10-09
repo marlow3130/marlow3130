@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">Software Developer Tranee | Maker | Technology Enthusiast</h3>
+<h3 align="center">Destroyer of worlds killed GitHub after 20 Commits Repository wont update PLEASE GIVE ME BATCH !!!!!!</h3>
 
 <p align="center">
   <a href="https://ls-dev.tech" target="_blank">
