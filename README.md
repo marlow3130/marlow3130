@@ -20,7 +20,7 @@
 
 ### 📈 GitHub Stats
 
-<a>
+<a align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=marlow3130&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlow3130&layout=compact&theme=radical" alt="Top Languages" />
 </a>
