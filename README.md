@@ -23,21 +23,20 @@
 ---
 config:
   kanban:
-    ticketBaseUrl: 'https://github.com/mermaid-js/mermaid/issues/#TICKET#'
----
-kanban
-  Todo
-    [Update Portfolio]
-    [Media-Server]
-  [In progress]
-    [Creating and Researching parts for Project: Media-Server.]
-
-  id9[Ready for deploy]
-    [Test Media-Server using Old Parts]
   
-  id11[Done]
-    [Project: Satisfactory Calculator]
-    [Project: Portfolio in 3D design]
+    id1[Todo]
+      [Update Portfolio]
+      [Media-Server]
+      
+    id2[In progress]
+      [Creating and Researching parts for Project: Media-Server.]
+      
+    id9[Ready for deploy]
+      [Test Media-Server using Old Parts]
+    
+    id11[Done]
+      [Project: Satisfactory Calculator]
+      [Project: Portfolio in 3D design]
 
 
 ### ✍️ Random Dev Quote
