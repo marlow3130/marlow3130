@@ -1,7 +1,7 @@
 <!-- Profile README inspired by ls-dev.tech -->
 
 <h1 align="center">Hi 👋, I'm Luca</h1>
-<h3 align="center">Software Developer Tranee | Maker | Technology Enthusiast | Gamer</h3>
+<h3 align="center">Software Developer Tranee | Maker | Technology Enthusiast | Gamer | Car Enthusiast</h3>
 
 
 <p align="center">
