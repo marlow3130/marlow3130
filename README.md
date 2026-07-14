@@ -73,7 +73,7 @@ Production chain calculator for the game Satisfactory.
 ## 📫 Get in Touch
 
 <!-- TODO: Links prüfen/ergänzen -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DEIN-PROFIL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:deine@email.ch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/luca-stalder-189a91287)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](luca.stalder@ls-dev.tech)
 
 > 💬 Open to opportunities in **Frontend (Angular)**, **Full-Stack (.NET)** and **AI-enabled developer tooling** in the Zurich/Aargau area.
