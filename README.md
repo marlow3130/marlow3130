@@ -61,15 +61,6 @@ Production chain calculator for the game Satisfactory.
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=marlow3130&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlow3130&layout=compact&hide_border=true" alt="Top Languages" height="160"/>
-</p>
-
----
-
 ## 📫 Get in Touch
 
 <!-- TODO: Links prüfen/ergänzen -->
