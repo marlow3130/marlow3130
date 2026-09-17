@@ -3,7 +3,7 @@
 **Full-Stack Developer** from Switzerland 🇨🇭 — building software with **C#/.NET**, **Angular** and **Flutter**, and currently setting up **local LLM infrastructure** for development teams.
 
 - 🎓 Informatiker EFZ Applikationsentwicklung (graduated 5.2/6)
-- 💼 Software Developer at a Swiss software company (church administration software)
+- 💼 Software Developer at KW-Software AG
 - 🤖 Driving the evaluation & rollout of a **self-hosted AI platform** for our dev team — Ollama, LiteLLM, ChromaDB, Langfuse
 - 🚗 Off-keyboard: modifying my Subaru WRX STI with 3D-printed parts
 
